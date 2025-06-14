@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 💡 Conhecido como **Shift**, sou um entusiasta da tecnologia que está sempre aprendendo algo novo
+- 💡 Começando como **Shift**, sou um entusiasta da tecnologia que está sempre aprendendo algo novo
 - 📚 Estudando linguagens como: `HTML`, `CSS`, `JavaScript`, `Python`, `C`, `C++` e `PHP`
 - 🛠️ Gosto de explorar sistemas, otimizar máquinas antigas e entender o que rola por trás dos bastidores
 - 📹 Em breve, lançando meu canal no YouTube com foco em **tecnologia acessível, dicas práticas, tutoriais e muito conteúdo feito com criatividade**
@@ -43,7 +43,7 @@
 ### 📫 Onde me encontrar
 
 - 💬 [Discord](https://discord.com) — (em breve com link fixo)
-- 🐦 [X/Twitter](https://twitter.com) — @ShiftDev (ou nome que você escolher)
+- 🐦 [X/Twitter](https://twitter.com/oShift_) — @oShift_
 
 ---
 
